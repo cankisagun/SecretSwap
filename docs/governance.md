@@ -5,7 +5,8 @@ The Secret Finance ecosystem has implemented a governance token, `SEFI`, for the
 Once fully implemented, `SEFI` holders will be able to vote on changes to SecretSwap such as:
 
 - Liquidity Provider fees
-- LP token staking
+- LP token staking rewards
+- Use of development funds
 - Enhancement proposals
 
 You can obtain `SEFI` tokens on SecretSwap, as well as earn them by providing liquidity on selected trading pairs.
